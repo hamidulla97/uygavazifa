@@ -1,0 +1,248 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 1440px;
+  margin: auto;
+}
+
+header {
+  width: 1440px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3D248A;
+}
+
+.wow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding-right: 200px;
+}
+
+.nav {
+  margin-left: 110px;
+}
+.nav .nav-a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 95px;
+}
+
+.text {
+  width: 551px;
+  height: 292px;
+  margin-left: 120px;
+}
+
+.innova {
+  width: 551px;
+  height: 156px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+  color: #3D248A;
+}
+
+.invest {
+  width: 515px;
+  height: 136px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 56px;
+  color: #3D248A;
+}
+
+.more {
+  width: 1440px;
+  height: 624px;
+  background-image: url("../img/groap.svg");
+}
+
+.more-text {
+  width: 640px;
+  height: 243px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 33px;
+  color: #3D248A;
+  padding-top: 170px;
+  margin-left: 640px;
+}
+
+.read {
+  width: 121px;
+  height: 45px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 16px;
+  color: #3D248A;
+  border: 2px solid #E0E0E0;
+  border-radius: 90px;
+  margin-left: 1137px;
+  margin-top: 170px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sewn {
+  width: 1440px;
+  height: 805px;
+}
+
+.product {
+  width: 617px;
+  height: 60px;
+  display: flex;
+  margin-left: 90px;
+  padding-top: 30px;
+}
+
+.product-div {
+  width: 14px;
+  height: 57px;
+  background-color: #FFC700;
+}
+
+.pro {
+  width: 577px;
+  height: 60px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+  color: #3D248A;
+  margin-left: 26px;
+}
+
+.we_one {
+  width: 200px;
+  height: 104px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  color: #3D248A;
+  margin-top: 18px;
+}
+
+.we_two {
+  width: 180px;
+  height: 284px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 33px;
+  color: #3D248A;
+  margin-top: 51px;
+}
+
+.advan {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 51px;
+}
+
+.what {
+  width: 1439px;
+  height: 838px;
+}
+
+.what_text {
+  width: 846px;
+  height: 82px;
+  display: flex;
+  padding-top: 43px;
+  margin-left: 90px;
+}
+
+.what-div {
+  width: 14px;
+  height: 57px;
+  background-color: #01D4FF;
+}
+
+.what-img {
+  margin-top: 85px;
+  margin-left: 145px;
+}
+
+.what-text {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 38px;
+}
+
+.what_p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 56px;
+  color: #3D248A;
+  margin-left: 20px;
+}
+
+.what-personal {
+  width: 200px;
+  height: 45px;
+  margin-left: 100px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 42px;
+  color: #3D248A;
+  margin-top: 21px;
+}
+
+.what-sed {
+  width: 238px;
+  height: 188px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 33px;
+  color: #3D248A;
+  margin-left: 55px;
+  margin-top: 22px;
+}
+
+.what-hat {
+  width: 356px;
+  height: 518px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 40px rgba(146, 163, 255, 0.25);
+  border-radius: 63px;
+}/*# sourceMappingURL=main.css.map */
